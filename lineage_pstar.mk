@@ -22,6 +22,10 @@ PRODUCT_BRAND := motorola
 PRODUCT_MODEL := motorola edge 20 pro
 PRODUCT_MANUFACTURER := motorola
 
+EVO_BUILD_TYPE := UNOFFICIAL
+TARGET_DISABLE_EPPE := true
+TARGET_USES_PICO_GAPPS := true
+
 PRODUCT_SYSTEM_NAME := pstar_retail
 
 # Build info
